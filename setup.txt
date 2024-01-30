@@ -1,0 +1,3 @@
+pip install winwifi
+pip install wrapt-timeout-decorator
+python -m pip install requests
